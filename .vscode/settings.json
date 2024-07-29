@@ -1,4 +1,7 @@
 {
   "conventionalCommits.scopes": ["Settings"],
-  "conventionalCommits.lineBreak": "\\n"
+  "conventionalCommits.lineBreak": "\\n",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "tailwind-fold.autoFold": false
 }
