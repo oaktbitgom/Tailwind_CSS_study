@@ -1,0 +1,4 @@
+{
+  "conventionalCommits.scopes": ["Settings"],
+  "conventionalCommits.lineBreak": "\\n"
+}
